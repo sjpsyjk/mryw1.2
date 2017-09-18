@@ -6,8 +6,7 @@
 > vue2+vue-router+axios+vuex+webpack
 +ES6/ES7+babel+vue-loader+nodejs+npm+flex
 
-[百度一下](http://www.qdkj520.com/mryw?_blank)
-<a href="http://www.qdkj520.com/mryw" target="_blank">演示地址</a>
+<a href="https://sjpsyjk.github.io/mryw1.2/dist" target="_blank">演示地址</a>
 ## Build Setup
 
 ``` bash
